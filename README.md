@@ -3,13 +3,13 @@
 My name is Eunchae Koh.
 
 - 🌱 I’m currently learning AI data science, Machine/Deep Learning and Data Analysis
-- 🤔 I’m looking for help with Data Analyst about customer
+- 🤔 I want to work on data analysis related to Customers
 - 💬 Ask me about AI data scientist
 - 📫 How to reach me: ebrhda@naver.com
 - ⚡ Fun fact: MBTI is ISFJ
 
 
-<h1 align="center">Hi 👋, I'm eunzzae</h1>
+<h1 align="center">Hi 👋, I'm Eunchae</h1>
 <h3 align="center">A passionate Data Analyst from South of Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
